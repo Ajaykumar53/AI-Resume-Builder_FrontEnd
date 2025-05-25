@@ -1,0 +1,7 @@
+/* No unnecessary styles — all handled by Tailwind */
+/* Add subtle hover effects if needed */
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(29, 78, 216, 0.1);
+  transition: all 0.3s ease;
+}
